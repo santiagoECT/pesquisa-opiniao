@@ -13,7 +13,7 @@ total_ruim = 0
 
 #Processamento
 
-for i in range(1, 11): #
+for i in range(1, 51): #
     nome = input("Digite o nome do entrevistado: ") # Nome do entrevistado
     idade = int(input("Digite a idade do entrevistado: ")) # Idade do entrevistado
     opiniao = input("Digite a opinião do entrevistado, 1 - Excelente  : 2 - Bom  : 3 - Ruim :   ") # Opinião do entrevistado
